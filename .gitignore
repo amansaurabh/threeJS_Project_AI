@@ -1,2 +1,5 @@
-node_modules
+### Node ###
+
+# Ignore node_modules and its child directories
+node_modules/
 .env
